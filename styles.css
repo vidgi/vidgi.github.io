@@ -6,6 +6,10 @@ body {
   color: #5a5a5a;
 }
 
+a{
+  color: #e06666;
+}
+
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
