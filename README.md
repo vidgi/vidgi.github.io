@@ -1,2 +1,2 @@
-### a simple website highlighting my work and experiences:
+### a simple website highlighting dev work and experiences:
 http://vidgi.github.io
